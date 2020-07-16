@@ -8,5 +8,7 @@ Login details:
 * Username: admin
 * Password: admin
 
+[Advanced version](https://github.com/DespotOfMorea/file-transferatu) (at GitHub), also available at [Google Play](https://play.google.com/store/apps/details?id=org.vnuk.filetransferatu).
+
 ## License
 [The MIT License (MIT)](LICENSE.md)
