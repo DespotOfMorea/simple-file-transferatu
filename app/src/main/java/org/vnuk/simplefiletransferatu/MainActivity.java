@@ -150,7 +150,7 @@ public class MainActivity extends AppCompatActivity {
         String userName = USER;
         String password = PASS;
         setupServer(userName, password);
-        startSever();
+        startServer();
     }
 
     private void setupServer(String userName, String password) {
@@ -221,7 +221,7 @@ public class MainActivity extends AppCompatActivity {
         serverFactory.setFtplets(m);
     }
 
-    private void startSever() {
+    private void startServer() {
         try {
             mServer.start();
             tvTitle.setText(getText(R.string.server_address));
